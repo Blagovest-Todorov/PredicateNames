@@ -1,0 +1,2 @@
+# PredicateNames
+task SoftUni Advanced
